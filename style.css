@@ -1,0 +1,97 @@
+body{
+    font-family:'poppins',sans-serif;
+    margin:0%
+}
+
+section{
+    height: 500px;
+}
+.fristsection{
+   background-image: url(imges/header-bg.png);
+    width: 100%;
+    height: 700px;
+  
+    background-size: cover;
+   
+}
+.half-widtht{
+    float: left;
+    padding-left: 3%;
+    margin-left: 5%;
+    width: 40%;
+}
+.half-widtht img{
+    width: 70%;
+    padding-top: 15%;
+}
+.top1{
+       margin: 30% 0% 0% 0%;
+       font-size: 30px;
+       padding-left: 15%;
+       
+}
+.top2{
+    font-size: 40px;
+    color:rgb(255, 123, 224) ;
+    font-weight: 700;   
+    padding-left: 15%;
+}
+.top3{
+    padding-left: 15%;
+}
+.top4{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg,rgb(248, 82, 223),rgb(255, 0, 174));
+    border-radius: 5px;
+    box-shadow:  20px 20px 90px rgb(0, 0, 0);
+    margin-left: 15%;
+    color: white;
+}
+.top4:hover{
+    background-image: linear-gradient(45deg,rgb(83, 255, 215),rgb(71, 160, 255)); 
+ 
+}
+.second-section{
+    margin-top: 10%;
+    background-image: url(imges/biography-bg.png);
+}
+.half-widtht2{
+    float: left;
+    padding-left: 3%;
+    margin-left: 5%;
+    width: 40%;   
+}
+.ndh1{
+    margin:50% 0% 0% 0%;
+    font-size: 40px; 
+    font-weight: 700;
+    color: rgb(249, 199, 125);
+} 
+.nd-a{
+text-decoration: none;
+padding: 10px 20px;
+background-image: linear-gradient(45deg,rgb(83, 255, 215),rgb(71, 160, 255));
+border-radius: 5px;
+color: white;
+box-shadow:  20px 20px 40px rgb(140, 139, 139)
+}
+.nd-a:hover{
+    background-image: linear-gradient(45deg,rgb(248, 82, 223),rgb(255, 0, 174));
+}
+.thard-section{
+    margin-top: 25%;
+    background-image: url(imges/latest-work-bg.png);
+}
+ .rrr{
+    text-decoration: none;
+    padding: 20px 40px;
+    background-image: linear-gradient(45deg,rgb(248, 82, 223),rgb(255, 0, 174));
+    border-radius: 5px;
+    box-shadow:  10px 20px 90px rgb(146, 144, 144);
+    margin-left: 40%;
+    color: white;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
